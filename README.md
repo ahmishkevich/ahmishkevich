@@ -2,7 +2,7 @@
 Мне нравится оптимизировать работу и использовать различные инструменты для облегчения жизни себе и окружающим.
 
 Написать мне можно тут:
-<p><a href="https://www.linkedin.com/in/akylson"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" height=25></a> 
+<p><a href="https://t.me/AMishkevich"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" height=25></a> 
 
 <h3>Repositories</h3>
 
