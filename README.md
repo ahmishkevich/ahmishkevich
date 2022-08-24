@@ -18,7 +18,7 @@
 <tr>
     <tr>
       <td><a href="https://github.com/ahmishkevich/projects_DA"><b>Yandex.Praktikum Data Analyst Projects</b></a></td>
-      <td>in progress</td>
+      <td>done</td>
     </tr>
   </tbody>
 </table>
